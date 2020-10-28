@@ -1,1 +1,2 @@
 
+When EC2 instance is terminated, regardless the EC2 instance was created by console or CLI, the corresponding primary ENI is always terminated.
